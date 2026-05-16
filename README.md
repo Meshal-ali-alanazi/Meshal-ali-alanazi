@@ -1,6 +1,6 @@
 # Meshal Ali Alanazi
 
-Computer Engineering focused on RISC-V architecture, embedded AI, FPGA
+Computer engineering portfolio focused on RISC-V architecture, embedded AI, FPGA
 prototyping, digital design, and enterprise network engineering.
 
 I build practical systems that connect hardware, firmware, simulation, machine
