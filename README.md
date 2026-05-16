@@ -43,7 +43,7 @@ Key points:
 - Includes simulation scripts for CPU regression checks
 - Connects with the RISC-V edge-AI work as the CPU-side hardware project
 
-### [Enterprise Network Design](https://github.com/Meshal-ali-alanazi/Enterprise-network-design)
+### [Enterprise Network Design](https://github.com/Meshal-ali-alanazi/enterprise-network-design)
 
 Cisco Packet Tracer enterprise network project with a LaTeX report, topology
 diagram, and configuration deliverables.
